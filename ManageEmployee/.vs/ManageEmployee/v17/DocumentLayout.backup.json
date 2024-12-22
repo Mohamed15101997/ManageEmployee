@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\OneDrive\\Desktop\\New folder (2)\\ManageEmp\\ManageEmployee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3CA067-C1CA-4762-864E-D55AAAEACD5E}|ManageEmployee\\ManageEmployee.csproj|c:\\users\\moham\\onedrive\\desktop\\new folder (2)\\manageemp\\manageemployee\\manageemployee\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3CA067-C1CA-4762-864E-D55AAAEACD5E}|ManageEmployee\\ManageEmployee.csproj|solutionrelative:manageemployee\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3CA067-C1CA-4762-864E-D55AAAEACD5E}|ManageEmployee\\ManageEmployee.csproj|c:\\users\\moham\\onedrive\\desktop\\new folder (2)\\manageemp\\manageemployee\\manageemployee\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3CA067-C1CA-4762-864E-D55AAAEACD5E}|ManageEmployee\\ManageEmployee.csproj|solutionrelative:manageemployee\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3CA067-C1CA-4762-864E-D55AAAEACD5E}|ManageEmployee\\ManageEmployee.csproj|c:\\users\\moham\\onedrive\\desktop\\new folder (2)\\manageemp\\manageemployee\\manageemployee\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3CA067-C1CA-4762-864E-D55AAAEACD5E}|ManageEmployee\\ManageEmployee.csproj|solutionrelative:manageemployee\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\New folder (2)\\ManageEmp\\ManageEmployee\\ManageEmployee\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "ManageEmployee\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\New folder (2)\\ManageEmp\\ManageEmployee\\ManageEmployee\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "ManageEmployee\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:35:46.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\New folder (2)\\ManageEmp\\ManageEmployee\\ManageEmployee\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ManageEmployee\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\New folder (2)\\ManageEmp\\ManageEmployee\\ManageEmployee\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ManageEmployee\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:32:50.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\New folder (2)\\ManageEmp\\ManageEmployee\\ManageEmployee\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ManageEmployee\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\New folder (2)\\ManageEmp\\ManageEmployee\\ManageEmployee\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ManageEmployee\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:32:44.338Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

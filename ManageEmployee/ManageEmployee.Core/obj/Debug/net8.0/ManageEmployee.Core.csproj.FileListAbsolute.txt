@@ -1,0 +1,36 @@
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ManageEmployee.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ManageEmployee.Core.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ManageEmployee.Core.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ManageEmployee.Core.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.Core\bin\Debug\net8.0\ManageEmployee.Core.deps.json
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.Core\bin\Debug\net8.0\ManageEmployee.Core.dll
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.Core\bin\Debug\net8.0\ManageEmployee.Core.pdb
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ManageEmployee.Core.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ManageEmployee.Core.dll
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\refint\ManageEmployee.Core.dll
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ManageEmployee.Core.pdb
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ref\ManageEmployee.Core.dll
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.Core\bin\Debug\net8.0\ManageEmployee.Core.deps.json
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.Core\bin\Debug\net8.0\ManageEmployee.Core.dll
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.Core\bin\Debug\net8.0\ManageEmployee.Core.pdb
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ManageEmployee.Core.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ManageEmployee.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ManageEmployee.Core.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ManageEmployee.Core.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ManageEmployee.Core.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ManageEmployee.Core.dll
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\refint\ManageEmployee.Core.dll
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ManageEmployee.Core.pdb
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ref\ManageEmployee.Core.dll
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.Core\bin\Debug\net8.0\ManageEmployee.Core.deps.json
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.Core\bin\Debug\net8.0\ManageEmployee.Core.dll
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.Core\bin\Debug\net8.0\ManageEmployee.Core.pdb
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ManageEmployee.Core.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ManageEmployee.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ManageEmployee.Core.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ManageEmployee.Core.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ManageEmployee.Core.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ManageEmployee.Core.dll
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\refint\ManageEmployee.Core.dll
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ManageEmployee.Core.pdb
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.Core\obj\Debug\net8.0\ref\ManageEmployee.Core.dll

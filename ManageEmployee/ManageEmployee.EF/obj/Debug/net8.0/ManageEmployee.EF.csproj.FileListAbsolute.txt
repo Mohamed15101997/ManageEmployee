@@ -1,0 +1,51 @@
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.EF\bin\Debug\net8.0\ManageEmployee.EF.deps.json
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.EF\bin\Debug\net8.0\ManageEmployee.EF.runtimeconfig.json
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.EF\bin\Debug\net8.0\ManageEmployee.EF.dll
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.EF\bin\Debug\net8.0\ManageEmployee.EF.pdb
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.EF\bin\Debug\net8.0\ManageEmployee.Core.dll
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.EF\bin\Debug\net8.0\ManageEmployee.Core.pdb
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEm.5E84534D.Up2Date
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.dll
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\refint\ManageEmployee.EF.dll
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.pdb
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ref\ManageEmployee.EF.dll
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.EF\bin\Debug\net8.0\ManageEmployee.EF.deps.json
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.EF\bin\Debug\net8.0\ManageEmployee.EF.runtimeconfig.json
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.EF\bin\Debug\net8.0\ManageEmployee.EF.dll
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.EF\bin\Debug\net8.0\ManageEmployee.EF.pdb
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.EF\bin\Debug\net8.0\ManageEmployee.Core.dll
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.EF\bin\Debug\net8.0\ManageEmployee.Core.pdb
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEm.5E84534D.Up2Date
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.dll
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\refint\ManageEmployee.EF.dll
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.pdb
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Desktop\Apis Projects\ManageEmployeeSystem\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ref\ManageEmployee.EF.dll
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.EF\bin\Debug\net8.0\ManageEmployee.EF.deps.json
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.EF\bin\Debug\net8.0\ManageEmployee.EF.runtimeconfig.json
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.EF\bin\Debug\net8.0\ManageEmployee.EF.dll
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.EF\bin\Debug\net8.0\ManageEmployee.EF.pdb
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.EF\bin\Debug\net8.0\ManageEmployee.Core.dll
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.EF\bin\Debug\net8.0\ManageEmployee.Core.pdb
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEm.5E84534D.Up2Date
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.dll
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\refint\ManageEmployee.EF.dll
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.pdb
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ManageEmployee.EF.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Desktop\New folder (2)\ManageEmp\ManageEmployee\ManageEmployee.EF\obj\Debug\net8.0\ref\ManageEmployee.EF.dll
