@@ -1,0 +1,10 @@
+@if(department != null)
+{
+  <div class="container">
+    <h1 class="text-center">Employees Names For {{department.name}} Depareatment</h1>
+    @for (name of department.employeesNames; track $index) {
+      <h5>{{$index+1}} / {{name}}</h5>
+    }
+  </div>
+}
+

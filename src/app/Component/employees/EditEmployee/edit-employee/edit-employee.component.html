@@ -1,0 +1,52 @@
+<div class="container">
+  <h2 class="text-center">Edit Employee</h2>
+<form [formGroup]="EditForm">
+  <div class="form-group">
+    <label class="" for="name">Employee Name</label>
+    <input formControlName="name" type="text" class="form-control m-3" id="name"  placeholder="Enter The Employee Name">
+  </div>
+  @if(!NameValid){
+    <small class="text-danger">Name Must be larger than 3 Characters And Less than 150 Charaters </small>
+    }
+    <div class="form-group">
+      <label class="" for="name">User Name</label>
+      <input formControlName="userName" type="text" class="form-control m-3" id="userName"  placeholder="Enter The User Name">
+    </div>
+    @if(!UserNameValid){
+      <small class="text-danger">User Name Must be Required </small>
+      }
+      <div class="form-group">
+        <label class="" for="address">Address</label>
+        <input formControlName="address" type="text" class="form-control m-3" id="address"  placeholder="Enter The Address">
+      </div>
+      @if(!AddressValid){
+        <small class="text-danger">Address Must be larger than 2 Characters And Less than 200 Charaters </small>
+        }
+        <div class="form-group">
+          <label class="" for="salary">Salary</label>
+          <input formControlName="salary" type="number" class="form-control m-3" id="salary"  placeholder="Enter The Salary">
+        </div>
+        @if(!SalaryValid){
+          <small class="text-danger">Salary Must be between 1 and 50000 </small>
+          }
+          <div class="form-group mb-2">
+            <label class="" for="department">Department</label>
+            <select
+            name="departmentId"
+            class="form-control m-3"
+            formControlName="departmentId"
+            required
+          >
+            <option value="" disabled selected>Choose a Department</option>
+            @for (department of Departments; track $index) {
+              <option [value]="department.id">
+                {{ department.name }}
+              </option>
+            }
+          </select>
+          </div>
+<div>
+  <button  (click)="UpdateEmployee()" type="submit" class="btn btn-primary">Submit</button>
+</div>
+</form>
+</div>

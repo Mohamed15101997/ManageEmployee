@@ -1,0 +1,15 @@
+<div class="container">
+  <h2 class="text-center">Add Department</h2>
+<form [formGroup]="CreateForm">
+  <div class="form-group">
+    <label class="" for="name">Department Name</label>
+    <input formControlName="name" type="text" class="form-control m-3" id="name"  placeholder="Enter The Department Name">
+  </div>
+  @if(!NameValid){
+    <small class="text-danger">Name Must be larger than 2 Characters And Less than 150 Charaters </small>
+    }
+<div>
+  <button (click)="CreateDepartment()" type="submit" class="btn btn-primary">Submit</button>
+</div>
+</form>
+</div>
